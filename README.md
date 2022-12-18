@@ -21,12 +21,9 @@
 <p align ="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
-<div align=center>
 ![helen1031's GitHub stats](https://github-readme-stats.vercel.app/api?username=helen1031&show_icons=true&theme=vue)
-</div>
-<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=helen1031)](https://solved.ac/helen1031/)
-</div>
+
 
 ### 📨 Contact
 <a href="mailto:1031helen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
