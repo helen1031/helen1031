@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
 
